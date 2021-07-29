@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/scoreCardTrackerGithub/static/css/main.20cf11d3.chunk.css",
+    "main.js": "/scoreCardTrackerGithub/static/js/main.2b6020a4.chunk.js",
+    "main.js.map": "/scoreCardTrackerGithub/static/js/main.2b6020a4.chunk.js.map",
+    "runtime-main.js": "/scoreCardTrackerGithub/static/js/runtime-main.84adb6c9.js",
+    "runtime-main.js.map": "/scoreCardTrackerGithub/static/js/runtime-main.84adb6c9.js.map",
+    "static/js/2.13cea000.chunk.js": "/scoreCardTrackerGithub/static/js/2.13cea000.chunk.js",
+    "static/js/2.13cea000.chunk.js.map": "/scoreCardTrackerGithub/static/js/2.13cea000.chunk.js.map",
+    "index.html": "/scoreCardTrackerGithub/index.html",
+    "static/css/main.20cf11d3.chunk.css.map": "/scoreCardTrackerGithub/static/css/main.20cf11d3.chunk.css.map",
+    "static/js/2.13cea000.chunk.js.LICENSE.txt": "/scoreCardTrackerGithub/static/js/2.13cea000.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84adb6c9.js",
+    "static/js/2.13cea000.chunk.js",
+    "static/css/main.20cf11d3.chunk.css",
+    "static/js/main.2b6020a4.chunk.js"
+  ]
+}

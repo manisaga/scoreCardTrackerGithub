@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Score Card Tracker",
+    "description": "This extension is used to keep track of players score in a gaming event.",
+    "version": "0.0.1",
+  
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_title": "Open the popup",
+      "default_icon": "scoreCardGenerator.png"
+    },
+    "icons": {
+      
+    },
+    "content_security_policy": "script-src 'self' 'sha256-7/JtgJrIA5+7heu28JAJof1bOcOxa4D6jiNzq1VYWGM='; object-src 'self'",
+    "permissions": [
+      "tabs"
+    ]
+  }
